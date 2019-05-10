@@ -28,5 +28,5 @@ function makeInt(a) {
 }
 
 function preserveDecimal(a) {
-    return a;
+    return 'a';
 }
