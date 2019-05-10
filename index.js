@@ -24,7 +24,6 @@ function dec(a) {
 
 function makeInt(a) {
   return a;
-  return 'a';
 }
 
 function preserveDecimal(a) {
